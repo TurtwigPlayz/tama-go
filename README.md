@@ -1,19 +1,3 @@
-# Gogi Ordering Interface
-
-> Final project for **CPSC 481, Group 3, Tutorial 4**!
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
-## Credit
-
-This software was developed and tested by:
-
-- Connell Reffo (connell.reffo@ucalgary.ca)
-- Creek Thompson (nelson.thompson@ucalgary.ca)
-- Hamza Khan (hamza.khan3@ucalgary.ca)
-- Thevin Mahawatte (thevin.mahawatte@ucalgary.ca)
-
 ## Run development environment
 
 1. Install Flutter SDK. This can be done directly through VSCode using the Flutter extension.
@@ -25,11 +9,6 @@ This software was developed and tested by:
 ```bash
 flutter run
 ```
-
-## Deployment
-
-This project is deployed on **GitHub Pages** here: https://connellr023.github.io/gogi-ordering-interface/
-
 ## Usage of the system
 
 The system is designed with responsiveness in mind. That is, the scale and positioning of elements on the screen will adapt to the size of the browser window. However, for a specific resolution to use, try $1500 \times 800$ in the _inspect element_ developer window.
